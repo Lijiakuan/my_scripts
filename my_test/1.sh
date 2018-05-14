@@ -1,0 +1,1 @@
+ echo "hello,world"|perl -pe '$_'
